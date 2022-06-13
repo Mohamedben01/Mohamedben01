@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Bendahui</h1>
-<h3 align="center">I am an enthusiastic software developer, I work as a Junior Full-Stack web developer using Angular and Java(Spring Boot).</h3>
-
-- 📫 How to reach me **mohamedbendahui7@gmail.com**
+<h4 align="center">I am an enthusiastic software developer, I work as a Junior Full-Stack web developer using Angular and Java(Spring Boot).</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
