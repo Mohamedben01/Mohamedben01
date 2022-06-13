@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-bendahui-65976618a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-bendahui-65976618a" height="30" width="40" /></a>
 </p>
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
   <div>
     <h1 align="center">Hi 👋, I'm Mohamed Bendahui</h1>
 <h3 align="center">I am an enthusiastic software developer, I work as a Junior Full-Stack web developer using Angular and Java(Spring Boot).</h3>
